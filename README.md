@@ -30,7 +30,7 @@
 ###
 
 <p align="left">
-  - i am currently working as a Lead Frontend Developer at <strong>Goldtag</strong>.<br>
+  - i am currently working as a <strong>lead frontend developer</strong> at <strong>goldtag</strong>.<br>
 </p>
 
 ###
