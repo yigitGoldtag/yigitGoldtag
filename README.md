@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">i am Yiğit.</h1>
+<h1 align="center">i am yigit</h1>
 
 ###
 
