@@ -19,34 +19,32 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yigitGoldtag.yigitGoldtag&" />
 </div>
 
-###
+---
 
-<h1 align="center">Hey there 👋</h1>
+## 🛠 Code, Coffee & Challenges
 
-###
+📍 **Frontend Developer @ Goldtag**  
+👨‍💻 **React, React Native, Next.js, JavaScript** tutkunu.  
+🚀 **Performans ve ölçeklenebilirlik** odaklı arayüzler geliştiriyorum.  
+📊 **Azure, Docker & Git** ile modern yazılım geliştirme süreçlerine ilgim var.  
 
-<h3 align="left">👨‍💻 About Me</h3>
+🧩 **Sorun çözmeyi seven biriyim.**  
+Kod yazarken en büyük motivasyonum **yeni şeyler öğrenmek, anlamadığım şeyleri çözmek ve işleri daha iyi hale getirmek.**  
+Basit görünen detaylar, aslında her şeyi değiştirir.
 
-###
+🏋️‍♂️ **Kod yazmadığım zamanlarda?**  
+Futbol oynarım, **düzenli spor yaparım** ve **League of Legends'ta Support Main** olarak takımımı taşırım. 🎮  
 
-<p align="left">
-  I'm Yiğit from Turkey 🇹🇷<br><br>
-  - 🔭 I’m currently working at <strong>Goldtag</strong> as a Frontend Developer.<br>
-  - ⚡ In my free time, regularly work out and play football every week.<br>
-</p>
+---
 
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
+## ⚡ Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-<img src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=FFFFFF" height="40" alt="Next.js" />
+  <img src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=FFFFFF" height="40" alt="Next.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML" />
   <img width="12" />
@@ -58,4 +56,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="Git" />
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yigitGoldtag&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+---
 
