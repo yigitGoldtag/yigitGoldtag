@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey</h1>
+<h1 align="center">i am Yiğit.</h1>
 
 ###
 
@@ -30,7 +30,6 @@
 ###
 
 <p align="left">
-  i am Yiğit.<br><br>
   - i am currently working at <strong>Goldtag</strong> as a Frontend Developer.<br>
 </p>
 
