@@ -31,13 +31,13 @@
 
 <p align="left">
   i am Yiğit from Turkey 🇹🇷<br><br>
-  - 🔭 i am currently working at <strong>Goldtag</strong> as a Frontend Developer.<br>
-  - ⚡ in my free time, regularly work out and play football every week.<br>
+  - i am currently working at <strong>Goldtag</strong> as a Frontend Developer.<br>
+  - in my free time, regularly work out and play football every week.<br>
 </p>
 
 ###
 
-<h3 align="left">🛠 languages and tools</h3>
+<h3 align="left">languages and tools</h3>
 
 ###
 
