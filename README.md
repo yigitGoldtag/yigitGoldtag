@@ -32,7 +32,7 @@
 <p align="left">
   I'm Yiğit from Turkey 🇹🇷<br><br>
   - 🔭 I’m currently working at <strong>Goldtag</strong> as a Frontend Developer.<br>
-  - ⚡ In my free time, I play <strong>League of Legends (Support Main)</strong> 🎮, regularly work outand play football every week ⚽.<br>
+  - ⚡ In my free time, regularly work out and play football every week.<br>
 </p>
 
 ###
