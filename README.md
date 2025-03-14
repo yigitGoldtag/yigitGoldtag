@@ -32,8 +32,7 @@
 <p align="left">
   I'm Yiğit from Turkey 🇹🇷<br><br>
   - 🔭 I’m currently working at <strong>Goldtag</strong> as a Frontend Developer.<br>
-  - 📚 I'm currently learning <strong>advanced cloud technologies & DevOps</strong>.<br>
-  - ⚡ In my free time, I play <strong>League of Legends (Support Main)</strong> 🎮 and enjoy watching mind-bending movies 🍿.<br>
+  - ⚡ In my free time, I play <strong>League of Legends (Support Main)</strong> 🎮, regularly work outand play football every week ⚽.<br>
 </p>
 
 ###
@@ -47,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-<img src="https://simpleicons.org/icons/nextdotjs.svg" height="40" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" style="filter: invert(1);" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML" />
   <img width="12" />
